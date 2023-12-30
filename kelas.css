@@ -235,6 +235,7 @@ footer p {
   border-radius: 50%;
   cursor: pointer;
   opacity: 0.6;
+  transition: .3s;
 }
 
 .ats i {
